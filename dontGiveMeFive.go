@@ -1,50 +1,46 @@
 package kata
 
 import (
-	"fmt"
 	"math"
 )
 
 func DontGiveMeFive(start int, end int) int {
 
+	//Solution is trickier to solve if digits other than last are '5'
+	//ex: 50, 500, 2050, 30500
+	//to account for this, we need to get the length and divide the number by 10 incrementally
+	//until we've checked all digits, at each increment, we perform the Abs(%10) to see if it contains a '5'.
+	//Optimization: We don't need to continually check for length, once we have the length, we only need to update length
+	//about the exponents of 10 {10^1, 10^2, 10^3, etc.}
+
 	count := 0
-	//if we have a number greater than 49,
-	//we start running into numbers which have the beginning number as a '5'
-	//ex: 50, 500, 5000, 50000
-	//to account for this, we need to perform a log10 function on the number
-	//in the case of 50's, we do this once and perform the Abs(%10) to see if it
-	//contains a 5.
 
 	for i := start; i <= end; i++ {
-		fmt.Print("i: ", i, ", ")
+
 		//get absolute value of i
 		var abs_i int = int(math.Abs(float64(i)))
-		//fmt.Print("abs_i: ",abs_i)
-		//is |i| > 50?
-		//if so, this simple for-loop will work
-		//get length
+
+		//get length, but if 0 we force value to = 1
 		length := digitCount(abs_i)
 		if length == 0 {
 			length++
 		}
-		fmt.Print("length: ", length, ", ")
+
+		//go's equivalent of a while loop
 		for length != 1 {
 			if abs_i%10 == 5 {
-				fmt.Println("Check")
+				//break condition
 				length = 1
 			} else {
 				abs_i /= 10
 				length--
 			}
-
 		}
 
 		if abs_i%10 != 5 {
 			count++
 		}
-
 	}
-
 	return count
 }
 

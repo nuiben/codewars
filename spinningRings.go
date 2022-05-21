@@ -12,6 +12,7 @@ func SpinningRings(innerMax, outerMax int) int {
 
 	for iVal != oVal {
 		moves++
+		//this is a beautiful way to cycle through a range without the use of if statements
 		iVal = (iVal + innerMax) % (innerMax + 1)
 		oVal = (oVal + 1) % (outerMax + 1)
 	}

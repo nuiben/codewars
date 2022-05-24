@@ -10,3 +10,4 @@ _Try it out:_
 - 5-21-22 [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
 - 5-22-22 [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 - 5-23-22 [Reverse Words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
+- 5-24-22 [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)

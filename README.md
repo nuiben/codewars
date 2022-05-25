@@ -11,3 +11,4 @@ _Try it out:_
 - 5-22-22 [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 - 5-23-22 [Reverse Words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - 5-24-22 [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
+- 5-25-22 [Jaden Case Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)

@@ -13,3 +13,4 @@ _Try it out:_
 - 5-24-22 [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 - 5-25-22 [Jaden Case Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Make Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | [Grasshopper](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)
 - 5-26-22 [RBG to Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) | [Terminal Move Game](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2) | [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+- 5-27-22 [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)

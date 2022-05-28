@@ -16,10 +16,11 @@
 // all rows before the nth row as well as the nth row. Failing to recognize
 // that the sum of each row was n^3, I overcomplicated the solution as I refactored
 // to correct my mistake. This is the optimal solution:
+package kata
 
- func RowSumOddNumbers(n int) int {
-     return n * n * n
- }
+func RowSumOddNumbers(n int) int {
+	return n * n * n
+}
 
 // This solution is still good, though inefficient.
 package kata

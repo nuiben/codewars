@@ -16,3 +16,4 @@ _Try it out:_
 - 5-27-22 [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006) | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - 5-28-22 [Odd Triangle](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/train/go/629216841bd1bb8c8adaf0c2) | [Hello World](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/go/629215cfeb816eba633b8944) | [Is Upper Case?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 - 5-29-22 [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+- 5-31-22 [Multiplication Table](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce)

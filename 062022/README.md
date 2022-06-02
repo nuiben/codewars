@@ -5,3 +5,4 @@ Habit forming strategy to make sure I am coding daily!
 
 _Try it out:_
 - 6-1-22 [Stop Spinning My Words!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+- 6-2-22 [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)

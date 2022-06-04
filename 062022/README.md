@@ -7,3 +7,4 @@ _Try it out:_
 - 6-1-22 [Stop Spinning My Words!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 - 6-2-22 [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082) | [Not Very Secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
 - 6-3-22 [Help Your Granny!](https://www.codewars.com/kata/5536a85b6ed4ee5a78000035)
+- 6-4-22 [Snail Sort](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)

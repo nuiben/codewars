@@ -11,3 +11,4 @@ _Try it out:_
 - 6-5-22 [Sum By Factor](https://www.codewars.com/kata/54d496788776e49e6b00052f)
 - 6-6-22 [Maximum Subarray Sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 - 6-7-22 [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
+- 6-8-22 [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)

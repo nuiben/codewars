@@ -13,3 +13,4 @@ _Try it out:_
 - 6-7-22 [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 - 6-8-22 [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)
 - 6-9-22 [Gradebook](https://www.codewars.com/kata/55cbd4ba903825f7970000f5)
+- 6-10-22 [Speed Control](https://www.codewars.com/kata/56484848ba95170a8000004d)

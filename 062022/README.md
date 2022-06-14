@@ -17,3 +17,4 @@ _Try it out:_
 - 6-11-22 [Max Length Difference](https://www.codewars.com/kata/5663f5305102699bad000056) | [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 - 6-12-22 [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | [Reverse Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 - 6-13-22 [Double Integer](https://www.codewars.com/kata/53ee5429ba190077850011d4)
+- 6-14-22 [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)

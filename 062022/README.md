@@ -18,4 +18,4 @@ _Try it out:_
 - 6-12-22 [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | [Reverse Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 - 6-13-22 [Double Integer](https://www.codewars.com/kata/53ee5429ba190077850011d4)
 - 6-14-22 [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
-- 6-15-22 [Milliseconds](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a)
+- 6-15-22 [Milliseconds](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004) | [Shortest String](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)

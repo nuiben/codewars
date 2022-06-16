@@ -19,3 +19,4 @@ _Try it out:_
 - 6-13-22 [Double Integer](https://www.codewars.com/kata/53ee5429ba190077850011d4)
 - 6-14-22 [Factorial](https://www.codewars.com/kata/57a049e253ba33ac5e000212)
 - 6-15-22 [Milliseconds](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004) | [Shortest String](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+- 6-16-22 [Initials](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)

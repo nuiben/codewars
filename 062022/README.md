@@ -21,3 +21,4 @@ _Try it out:_
 - 6-15-22 [Milliseconds](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004) | [Shortest String](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 - 6-16-22 [Initials](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 - 6-17-22 [Game Health](https://www.codewars.com/kata/586c1cf4b98de0399300001d)
+- 6-18-22 [Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)

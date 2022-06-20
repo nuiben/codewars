@@ -23,3 +23,4 @@ _Try it out:_
 - 6-17-22 [Game Health](https://www.codewars.com/kata/586c1cf4b98de0399300001d)
 - 6-18-22 [Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 - 6-19-22 [Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
+- 6-20-22 [Flower Pedals](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)

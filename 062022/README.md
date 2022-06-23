@@ -25,3 +25,4 @@ _Try it out:_
 - 6-19-22 [Box](https://www.codewars.com/kata/565f5825379664a26b00007c)
 - 6-20-22 [Flower Pedals](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296)
 - 6-22-22 [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
+- 6-23-22 [Palindrome] (https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)

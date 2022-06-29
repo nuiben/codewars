@@ -27,3 +27,4 @@ _Try it out:_
 - 6-22-22 [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 - 6-23-22 [Palindrome] (https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 - 6-25-22 [Love vs Friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016)
+- 6-29-22 [Evaporator](https://www.codewars.com/kata/5506b230a11c0aeab3000c1f)

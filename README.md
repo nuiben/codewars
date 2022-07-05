@@ -6,3 +6,4 @@ See what challenges I'm working on today
 _Table of Contents:_
 - [May 2022](https://github.com/nuiben/codewars/tree/main/052022)
 - [June 2022](https://github.com/nuiben/codewars/tree/main/062022)
+- [July 2022](https://github.com/nuiben/codewars/tree/main/072022)

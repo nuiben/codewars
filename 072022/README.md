@@ -8,3 +8,4 @@ _Try it out:_
 - 7-2-22 [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832) | [Basic Math Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
 - 7-4-22 [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 - 7-5-22 [Split String](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+- 7-6-22 [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)

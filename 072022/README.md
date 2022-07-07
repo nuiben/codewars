@@ -9,3 +9,4 @@ _Try it out:_
 - 7-4-22 [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 - 7-5-22 [Split String](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
 - 7-6-22 [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+- 7-7-22 [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
